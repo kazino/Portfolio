@@ -1,0 +1,32 @@
+body{
+	padding-top: 80px;
+}
+
+img{
+	width: 100%;
+	height: auto;
+}
+
+h2{
+	margin-top: 0;
+}
+
+em{
+	opacity: 0.7;
+
+}
+
+.work{
+	cursor: pointer;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.work_detail{
+	display: none;
+}
+
+.work_slideShow{
+	height: 346px;
+	overflow-y: hidden;
+}
